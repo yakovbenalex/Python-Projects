@@ -1,0 +1,28 @@
+{
+	"text": "",
+	"date_modified": 1631354400,
+	"date_journal": 1631354400,
+	"id": "",
+	"preview_text": "",
+	"address": "",
+	"music_artist": "",
+	"music_title": "",
+	"lat": 1.7976931348623157e308,
+	"lon": 1.7976931348623157e308,
+	"mood": 0,
+	"label": "",
+	"folder": "",
+	"sentiment": 0,
+	"timezone": "Europe/Moscow",
+	"favourite": false,
+	"type": "html",
+	"weather": {
+		"id": -1,
+		"degree_c": 1.7976931348623157e308,
+		"description": "",
+		"icon": "",
+		"place": ""
+	},
+	"photos": [],
+	"tags": []
+}
